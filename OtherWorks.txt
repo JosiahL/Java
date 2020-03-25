@@ -15,7 +15,8 @@ In addition to what I have in my repository, I have worked with:
 - parameterized classes
 - enumeration types
 - Java Collections Interface
-- ArrayLists, cloneable objects
+- ArrayLists
+- cloneable objects
 - linked lists
 - stacks
 - queues
