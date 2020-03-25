@@ -1,0 +1,29 @@
+In addition to what I have in my repository, I have worked with:
+- sorting and searching
+- vectors
+- interfaces
+- software development processes
+- user-defined libraries
+- exception handling
+- abstract data types
+- character i/o
+- binary i/o
+- object i/o
+- analysis of algorithms using Big O
+- backtracking
+- generic programming using class Object
+- parameterized classes
+- enumeration types
+- Java Collections Interface
+- ArrayLists, cloneable objects
+- linked lists
+- stacks
+- queues
+- trees
+- treesets
+- set operations
+- tree maps
+- map views
+- hashing
+- hashmaps
+- hashset
